@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//Singleton class - Ensuring one object persists
 class Singleton
 {
 private:
