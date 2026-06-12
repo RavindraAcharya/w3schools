@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Node Class to hold data and reference pointer to the next node
 class Node
 {
 public :
@@ -8,6 +9,7 @@ public :
 	Node* next;
 };
 
+// LinkedList class to bind all the functionalities of a linkedlist together:WQ
 class LinkedList
 {
 private:
